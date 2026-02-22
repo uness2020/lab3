@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+array villes_array
+color black
+color md_theme_light_onPrimary
+color md_theme_light_onPrimaryContainer
+color md_theme_light_onSecondary
+color md_theme_light_onSecondaryContainer
+color md_theme_light_primary
+color md_theme_light_primaryContainer
+color md_theme_light_secondary
+color md_theme_light_secondaryContainer
+color white
+id btnEnvoyer
+id btnRetour
+id etAdresse
+id etEmail
+id etNomPrenom
+id etTelephone
+id spinnerVille
+id tvAdresse
+id tvEmail
+id tvNom
+id tvTelephone
+id tvVille
+layout activity_main
+layout activity_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.FormApp
+xml backup_rules
+xml data_extraction_rules

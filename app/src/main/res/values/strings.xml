@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FormApp</string>
+
+    <!-- Villes pour Spinner -->
+    <string-array name="villes_array">
+        <item>Paris</item>
+        <item>Marseille</item>
+        <item>Lyon</item>
+        <item>Toulouse</item>
+        <item>Nice</item>
+        <item>Nantes</item>
+        <item>Strasbourg</item>
+        <item>Bordeaux</item>
+        <item>Lille</item>
+        <item>Rennes</item>
+    </string-array>
+</resources>
